@@ -1,0 +1,31 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    background-image: url(5.1\ header.jpg.jpg);
+    background-size: cover;
+}
+
+h2{
+    color: white;
+    text-align: center;
+}
+button{
+    margin-left: 45%;
+    margin-top: 9em;
+    color: white;
+    background-color: orange;
+    font-size: medium;
+    padding: 15px;
+    border: none;
+    border-radius: 25px;
+}
+
+.container{
+    margin-top: 300px;
+    /* background-color: rgba(137, 43, 226, 0.359); */
+    height: 250px;
+}

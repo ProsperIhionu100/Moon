@@ -1,0 +1,28 @@
+body{
+    text-align: end;
+}
+li{
+    display: inline-block;
+}
+
+h2{
+    color: green;
+}
+
+p{
+    color: #AA4139;
+    text-align: center;
+    border: 5px solid rgba(255, 176, 170, 0.5);
+}
+
+p{
+    line-height: 50px;
+    font-style: italic;
+    font-weight: bold;
+    font-size: 180%;
+    font-family: "Times New Roman", Georgia,;
+}
+
+img{
+    float: right;
+}
